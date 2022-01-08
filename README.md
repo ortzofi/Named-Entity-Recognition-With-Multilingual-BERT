@@ -14,4 +14,5 @@ This table displayes the F1 score achieved by each model on the target languages
 <img width="1001" alt="Screen Shot 2022-01-08 at 13 44 56" src="https://user-images.githubusercontent.com/96059174/148642882-21d6d3e7-3ed7-47ba-ae8d-aaa42c673aac.png">
 
 In this example we can see the full results of a model trained on English and Spanish and evaluated on Spanish data.
+
 <img width="417" alt="Screen Shot 2022-01-08 at 14 15 01" src="https://user-images.githubusercontent.com/96059174/148643775-c9c46b2b-275a-4939-92df-862d406e83f2.png">

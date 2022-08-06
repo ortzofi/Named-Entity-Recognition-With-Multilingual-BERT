@@ -10,7 +10,7 @@ We used the English CoNLL 2003 dataset as well as the Spanish and Dutch CoNLL 20
 In addition, we used the Chinese MSRA dataset and the WikiANN dataset, from which we took the French, Italian, Portuguese, Swedish, Turkish, Russian, Hebrew, Arabic, Japanese and Korean datasets. These datasets have three entity types (PER, LOC, ORG).
 
 ## Results
-This table displayes the F1 score achieved by each model on the target languages, including the total average score.
+This table displays the F1 score achieved by each model on the target languages, including the total average score.
 <img width="1001" alt="Screen Shot 2022-01-08 at 13 44 56" src="https://user-images.githubusercontent.com/96059174/148642882-21d6d3e7-3ed7-47ba-ae8d-aaa42c673aac.png">
 
 In this example we can see the full results of a model trained on English and Spanish and evaluated on Spanish data.

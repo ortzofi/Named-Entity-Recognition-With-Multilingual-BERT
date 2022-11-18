@@ -1,4 +1,4 @@
-# Named Entity Recognition With Multilingual BERT
+# Named Entity Recognition with Multilingual BERT
 ## About 
 As part of a deep learning course at Reichman University (IDC Herzliya) we chose to take on an NLP (Natural Language Processing) final project. The project’s goal was to check how source languages affect the performance of Multilingual BERT in cross-lingual zero-shot named entity recognition (NER) prediction. Annotated data in 17 different languages and 9 NER tags were obtained for this purpose. For more details please refer to the paper included in this repository.
 
